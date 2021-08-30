@@ -10,8 +10,8 @@ from ecdr_test_monitor_cost.utils import get_logger
 
 log = get_logger()
 
-sender = "roshan.mohammad@changehealthcare.com"
-receiver = "roshan.mohammad@changehealthcare.com"
+sender = ""
+receiver = ""
 smtp_server = "smtp-mail.outlook.com"
 smtp_port = "587"
 region = "us-east-1"
